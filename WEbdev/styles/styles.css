@@ -1,0 +1,43 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(55, 147, 96);
+    background-color: darksalmon;
+}
+a:hover{ text-decoration: underline;
+font-weight: bold;
+font-weight: 18px;}
+h2,h4{ color: blueviolet;}
+p {color: chartreuse; background-color: rgb(0, 0, 0);text-decoration: none;}
+li{
+    font-size: 18px;
+    color: rgb(46, 132, 223);
+    text-decoration: dotted;
+    font-weight: normal;
+}
+.resumelistheading{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.justify{text-align: justify;}
+.homebg{
+    background-image: url('../WEbdev/images/Paris\ on\ film.jpg');
+    background-position: top right;
+}
+.box{
+border-width: 1px;
+border-style: solid;
+border-color: gray;
+
+border: 1px solid green;
+
+}
+.box2{
+padding: 5px;
+}
+.box3{
+margin: 50px;
+}
